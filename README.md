@@ -14,6 +14,8 @@ This course delves into the intricate and advanced aspects of computer networkin
 
 In the subsequent part of the course, students are presented with a unique opportunity to conduct research in these areas and beyond, extending into the realm of cloud computing. This hands-on experience fosters a deeper understanding and practical application of the concepts learned, thereby equipping students with the skills necessary to navigate the ever-evolving landscape of computer networking.
 
+## [Course Outline](./materials/Course_Outline.md)
+
 ## Course Learning Outcomes
 1. Describe the state-of-the-art technologies in computer networking.
 2. Evaluate the demands of cloud computing in various domain of applications.
