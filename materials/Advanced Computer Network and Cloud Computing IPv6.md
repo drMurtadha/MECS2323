@@ -4,7 +4,7 @@
 - Extension Headers in IPv6
 
 **2. Detailed Overview of IPv6 (30 minutes)**
-- IPv6 addressing scheme
+- IPv6 addressing scheme[[materials/IPv6 addressing scheme.md]]
 - IPv6 Header Structure
 - Extension Headers in IPv6
 
